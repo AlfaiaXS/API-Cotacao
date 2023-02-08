@@ -19,5 +19,4 @@ class Cotacao:
         print(self.cotacao_btc_br)
 
 
-c1 = Cotacao()
-c1.cotacao_btc()
+
